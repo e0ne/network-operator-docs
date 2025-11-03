@@ -4,6 +4,7 @@
 .. |doca-driver-version| replace:: doca3.2.0-25.10-1.1.2.0-0
 .. |doca-driver-repository| replace:: nvcr.io/nvstaging/mellanox
 .. |doca-driver-version-lts| replace:: 24.10-0.7.0.0-0
+.. |doca-driver-version-lts| replace:: 24.10-0.7.0.0-0
 .. |doca-init-container-version| replace:: network-operator-v25.10.0-beta.4
 .. |doca-init-container-repository| replace:: nvcr.io/nvstaging/mellanox
 .. |sriov-device-plugin-version| replace:: network-operator-v25.10.0-beta.4
